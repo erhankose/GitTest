@@ -8,7 +8,7 @@ public class TalepYonetimiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TalepYonetimiApplication.class, args);
-		System.out.println("Hello Dünya2!");
+		System.out.println("Hello Dünya3!");
 	}
 
 }
